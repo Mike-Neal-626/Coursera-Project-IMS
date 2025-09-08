@@ -1,2 +1,3 @@
-# Coursera-Project-IMS
-Inventory Management System
+<!-- # Coursera-Project-IMS
+Inventory Management System -->
+
